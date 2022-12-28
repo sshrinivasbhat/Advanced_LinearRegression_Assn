@@ -53,7 +53,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Conclusions
 ### Multiple Model options were tried with various configurations for Linear,Ridge and Lasso Regression
-
+     - Model Variations
 	- Model-1 Min-Max Scaling for Target and Predictor Variables,Log Transformation for Target Variable
 	- Model-2 Min Max scalinhg for Target and Predictor Variables,Log Transformation for Target Variable,Doubling of Optimal Regularization parameters obtained for Lasso and Ridge
 	- Model-3 Min-Max Scaling applied for Predictor Variables only,Log transformation of Target Variable
